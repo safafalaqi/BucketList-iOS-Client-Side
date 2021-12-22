@@ -1,3 +1,5 @@
 # BucketList
 
-Bucket List crUD
+Bucket List (iOS Client-Side)
+Bucket List (Adding Tasks)
+Bucket List IV
