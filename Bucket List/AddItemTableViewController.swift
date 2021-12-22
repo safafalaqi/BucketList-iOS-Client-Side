@@ -1,9 +1,11 @@
 //
 //  AddItemTableViewController.swift
-//  Bucket List
-//
-//  Created by Safa Falaqi on 12/12/2021.
-//
+//  Bucket List (iOS Client-Side)
+//  Bucket List (Adding Tasks)
+//  Bucket List IV
+//  Created by Safa Falaqi on 22/12/2021.
+// https://github.com/rodleyva/BucketServer/tree/master
+
 
 import UIKit
 
